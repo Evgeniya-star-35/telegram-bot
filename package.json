@@ -1,0 +1,25 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon index.js",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Evgeniya-star-35/telegram-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evgeniya-star-35/telegram-bot/issues"
+  },
+  "homepage": "https://github.com/Evgeniya-star-35/telegram-bot",
+  "dependencies": {
+    "node-telegram-bot-api": "0.54.0",
+    "nodemon": "^2.0.15"
+  }
+}
